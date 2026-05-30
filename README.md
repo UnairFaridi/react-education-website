@@ -164,5 +164,3 @@ src/
 This project helped in understanding modern frontend web development using React.js and Tailwind CSS. It improved knowledge about routing, reusable components, state management, responsive design, and user interface development.
 
 The project successfully fulfills all assignment requirements and demonstrates practical implementation of React concepts in a real-world educational website.
-
-# Thank You
